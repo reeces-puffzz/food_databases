@@ -1,0 +1,49 @@
+ingredientID,name,message
+1,Carrageenan,"Can cause digestive problems, such as bloating, irritable bowel disease (IBD), and inflammation"
+2,High Fructose Corn Syrup,"Can cause liver disease, insulin resistsance, obesity, and type 2 diabetes"
+3,Erythritol,"Can cause digestive problems, diarrhea, bloating, cramps, and gas"
+4,Hydrogenated starch hydrolysates (HSH),Can have a laxative effect
+5,Isomalt,Can upset intestinal tract and cause gut problems
+6,Lactitol,Can have a laxative effect
+7,Maltitol,"Can cause weight gain, stomach pain, gas, and a laxative effect"
+8,Mannitol,Can cause gastrointestinal discomfort and have a laxative effect
+9,Sorbitol,"Can cause diarrhea, abdominal cramping, and nausea"
+10,Whey Protein,Heavily processed and often has unsafe toxins 
+11,Canola Oil,Heavily processed and has no nutritional value
+12,Rapeseed Oil,Heavily processed and has no nutritional value
+13,Corn Oil,Can damage your liver
+14,Maize Oil,Can damage your liver
+15,Soybean Oil,"Leads to obesity and diabetes; Could also affect neurological conditions like autism, Alzheimer’s disease, anxiety, and depression"
+16,Vegetable Oil,Contains high volume of fatty acids
+17,Palm Oil,High in saturated fat which can lead to heart problems
+18,Natural Flavors,Can be mixed with chemicals and solvents
+19,Inulin,Consuming too much can lead to discomfort and gas
+20,Guar Gum,Can swell up and block your esophagus
+21,Xanthan Gum,Can cause digestive issues and alter your gut bacteria
+22,Potassium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
+23,Sodium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
+24,Sodium Nitrite,"Can cause colon cancer, heart disease, and obesity"
+25,Azodicarbonamide,Can cause asthma
+26,Potassium Bromate,Linked to cancer
+27,Propyl Gallate,Linked to cancer
+28,BHA,Linked to cancerous tumor growth
+29,BHT,Linked to cancerous tumor growth
+30,Monosodium Glutamate (MSG),"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+31,Aspartame,"Can cause dizziness, headaches, blurred vision and stomach problems"
+32,Sucralose,Can cause swelling of liver and kidneys and a shrinkage of the thymus gland
+33,Agave Nectar,"Contains high levels of fructose, which causes insulin resistance, liver disease and inflammation of body tissues"
+34,Sodium Nitrate,"Can cause colon cancer, heart disease, and obesity"
+35,"Diacetyl",Associated with lung disease
+36,"Propylparaben",Can mess with hormones and accelerate the growth of breast cancer cells
+37,Yeast Extract,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+38,Glutamic Acid,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+39,Hydrolyzed Vegetable Protein,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+40,Soy Protein Isolate,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+41,Soy Lecithin,"Can cause increased risk of cancer, potential risk of birth defects, diarrhea, nausea, and stomach pain"
+42,Tert-butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+43,Tertiary Butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+44,Butylated Hydroxyanisol,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+45,TBHQ,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+46,Maltodextrin,"Can cause inflammation, bloating, gut issues, increased risk of IBS, gas, and weight gain; May affect the balance of your gut bacteria"
+47,Enriched Flour,"Can trigger sugar spikes followed by a crash leading to weight gain, diabetes, and cardiovascular disease"
+48,Caramel Coloring,Can cause cancer
