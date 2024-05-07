@@ -1,49 +1,143 @@
-ingredientID,name,message
-1,Carrageenan,"Can cause digestive problems, such as bloating, irritable bowel disease (IBD), and inflammation"
-2,High Fructose Corn Syrup,"Can cause liver disease, insulin resistsance, obesity, and type 2 diabetes"
-3,Erythritol,"Can cause digestive problems, diarrhea, bloating, cramps, and gas"
-4,Hydrogenated starch hydrolysates (HSH),Can have a laxative effect
-5,Isomalt,Can upset intestinal tract and cause gut problems
-6,Lactitol,Can have a laxative effect
-7,Maltitol,"Can cause weight gain, stomach pain, gas, and a laxative effect"
-8,Mannitol,Can cause gastrointestinal discomfort and have a laxative effect
-9,Sorbitol,"Can cause diarrhea, abdominal cramping, and nausea"
-10,Whey Protein,Heavily processed and often has unsafe toxins 
-11,Canola Oil,Heavily processed and has no nutritional value
-12,Rapeseed Oil,Heavily processed and has no nutritional value
-13,Corn Oil,Can damage your liver
-14,Maize Oil,Can damage your liver
-15,Soybean Oil,"Leads to obesity and diabetes; Could also affect neurological conditions like autism, Alzheimer’s disease, anxiety, and depression"
-16,Vegetable Oil,Contains high volume of fatty acids
-17,Palm Oil,High in saturated fat which can lead to heart problems
-18,Natural Flavors,Can be mixed with chemicals and solvents
-19,Inulin,Consuming too much can lead to discomfort and gas
-20,Guar Gum,Can swell up and block your esophagus
-21,Xanthan Gum,Can cause digestive issues and alter your gut bacteria
-22,Potassium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
-23,Sodium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
-24,Sodium Nitrite,"Can cause colon cancer, heart disease, and obesity"
-25,Azodicarbonamide,Can cause asthma
-26,Potassium Bromate,Linked to cancer
-27,Propyl Gallate,Linked to cancer
-28,BHA,Linked to cancerous tumor growth
-29,BHT,Linked to cancerous tumor growth
-30,Monosodium Glutamate (MSG),"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
-31,Aspartame,"Can cause dizziness, headaches, blurred vision and stomach problems"
-32,Sucralose,Can cause swelling of liver and kidneys and a shrinkage of the thymus gland
-33,Agave Nectar,"Contains high levels of fructose, which causes insulin resistance, liver disease and inflammation of body tissues"
-34,Sodium Nitrate,"Can cause colon cancer, heart disease, and obesity"
-35,"Diacetyl",Associated with lung disease
-36,"Propylparaben",Can mess with hormones and accelerate the growth of breast cancer cells
-37,Yeast Extract,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
-38,Glutamic Acid,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
-39,Hydrolyzed Vegetable Protein,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
-40,Soy Protein Isolate,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
-41,Soy Lecithin,"Can cause increased risk of cancer, potential risk of birth defects, diarrhea, nausea, and stomach pain"
-42,Tert-butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
-43,Tertiary Butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
-44,Butylated Hydroxyanisol,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
-45,TBHQ,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
-46,Maltodextrin,"Can cause inflammation, bloating, gut issues, increased risk of IBS, gas, and weight gain; May affect the balance of your gut bacteria"
-47,Enriched Flour,"Can trigger sugar spikes followed by a crash leading to weight gain, diabetes, and cardiovascular disease"
-48,Caramel Coloring,Can cause cancer
+name,message
+High Fructose Corn Syrup,"Can cause liver disease, insulin resistsance, obesity, and type 2 diabetes"
+Erythritol,"Can cause digestive problems, diarrhea, bloating, cramps, and gas"
+Hydrogenated starch hydrolysates ,Can have a laxative effect
+HSH,Can have a laxative effect
+Isomalt,Can upset intestinal tract and cause gut problems
+Lactitol,Can have a laxative effect
+Maltitol,"Can cause weight gain, stomach pain, gas, and a laxative effect"
+Mannitol,Can cause gastrointestinal discomfort and have a laxative effect
+Sorbitol,"Can cause diarrhea, abdominal cramping, and nausea"
+Whey Protein,Heavily processed and often has unsafe toxins 
+Canola Oil,Heavily processed and has no nutritional value
+Rapeseed Oil,Heavily processed and has no nutritional value
+Corn Oil,Can damage your liver
+Maize Oil,Can damage your liver
+Soybean Oil,"Leads to obesity and diabetes; Could also affect neurological conditions like autism, Alzheimer's disease, anxiety, and depression"
+Vegetable Oil,Contains high volume of fatty acids
+Palm Oil,High in saturated fat which can lead to heart problems
+Natural Flavors,Can be mixed with chemicals and solvents
+Inulin,Consuming too much can lead to discomfort and gas
+Guar Gum,Can swell up and block your esophagus
+Xanthan Gum,Can cause digestive issues and alter your gut bacteria
+Potassium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
+Sodium Benzoate,Can disturb thyroid levels; Can form a carcinogen when paired with vitamin C
+Sodium Nitrite,"Can cause colon cancer, heart disease, and obesity"
+Azodicarbonamide,Can cause asthma
+Potassium Bromate,Linked to cancer
+Propyl Gallate,Linked to cancer
+BHA,Linked to cancerous tumor growth
+BHT,Linked to cancerous tumor growth
+Monosodium Glutamate ,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+MSG,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+Aspartame,"Can cause dizziness, headaches, blurred vision and stomach problems"
+Sucralose,Can cause swelling of liver and kidneys and a shrinkage of the thymus gland
+Agave Nectar,"Contains high levels of fructose, which causes insulin resistance, liver disease and inflammation of body tissues"
+Sodium Nitrate,"Can cause colon cancer, heart disease, and obesity"
+"Diacetyl",Associated with lung disease
+"Propylparaben",Can mess with hormones and accelerate the growth of breast cancer cells
+Yeast Extract,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+Glutamic Acid,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+Hydrolyzed Vegetable Protein,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+Soy Protein Isolate,"Can cause  headache, flushing, sweating, fluttering heartbeat, and shortness of breath"
+Soy Lecithin,"Can cause increased risk of cancer, potential risk of birth defects, diarrhea, nausea, and stomach pain"
+Tert-butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+Tertiary Butylhydroquinone,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+Butylated Hydroxyanisol,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+TBHQ,"High doses can cause nausea, delirium, collapse, tinnitus, and vomiting"
+Maltodextrin,"Can cause inflammation, bloating, gut issues, increased risk of IBS, gas, and weight gain; May affect the balance of your gut bacteria"
+Enriched Flour,"Can trigger sugar spikes followed by a crash leading to weight gain, diabetes, and cardiovascular disease"
+Caramel Coloring,Can cause cancer
+Xantham Gum,Can cause digestive issues and alter your gut bacteria
+green 3,Significant increases in bladder tumors in male rats
+fast green,Significant increases in bladder tumors in male rats
+green #3,Significant increases in bladder tumors in male rats
+green no 3,Significant increases in bladder tumors in male rats
+green no. 3,Significant increases in bladder tumors in male rats
+blue 2,"Occurrence of tumors, particularly brain gliomas"
+indigo carmine,"Occurrence of tumors, particularly brain gliomas"
+Indigotine,"Occurrence of tumors, particularly brain gliomas"
+blue #2,"Occurrence of tumors, particularly brain gliomas"
+blue no 2,"Occurrence of tumors, particularly brain gliomas"
+blue no. 2,"Occurrence of tumors, particularly brain gliomas"
+red 3,Suspected trigger of hyperactivity in children
+erythrosine,Suspected trigger of hyperactivity in children
+red #3,Suspected trigger of hyperactivity in children
+red no 3,Suspected trigger of hyperactivity in children
+red no. 3,Suspected trigger of hyperactivity in children
+blue 1,Allergic reaction in individuals with pre-existing asthma
+brilliant blue,Allergic reaction in individuals with pre-existing asthma
+blue #1,Allergic reaction in individuals with pre-existing asthma
+blue no 1,Allergic reaction in individuals with pre-existing asthma
+blue no. 1,Allergic reaction in individuals with pre-existing asthma
+yellow 6,"Hyperactivity in some children,Causes adrenal tumors in animals"
+sunset yellow,"Hyperactivity in some children,Causes adrenal tumors in animals"
+yellow #6,"Hyperactivity in some children,Causes adrenal tumors in animals"
+yellow no 6,"Hyperactivity in some children,Causes adrenal tumors in animals"
+yellow no. 6,"Hyperactivity in some children,Causes adrenal tumors in animals"
+yellow 5,Mild to severe hypersensitiviy reactions
+tartrazine,Mild to severe hypersensitiviy reactions
+yellow #5,Mild to severe hypersensitiviy reactions
+yellow no 5,Mild to severe hypersensitiviy reactions
+yellow no.5,Mild to severe hypersensitiviy reactions
+orange b,"Negative behavioral changes, lymphatic system and kidneys"
+citrus red 2,Possibly carcinogenic to humans; cancer and tumors in animals.
+citrus red #2,Possibly carcinogenic to humans; cancer and tumors in animals.
+Brilliant Blue FCF,Allergic reaction in individuals with pre-existing asthma
+E133,Allergic reaction in individuals with pre-existing asthma
+FD&C Blue No. 1,Allergic reaction in individuals with pre-existing asthma
+CI 42090,Allergic reaction in individuals with pre-existing asthma
+Acid Blue 9,Allergic reaction in individuals with pre-existing asthma
+Alzen Food Blue No. 1,Allergic reaction in individuals with pre-existing asthma
+C.I. Food Blue 2,Allergic reaction in individuals with pre-existing asthma
+Patent Blue VF,Allergic reaction in individuals with pre-existing asthma
+C.I. 73015,Allergic reaction in individuals with pre-existing asthma
+FD&C Blue #1,Allergic reaction in individuals with pre-existing asthma
+Blue 1 Lake,Allergic reaction in individuals with pre-existing asthma
+Pure Brilliant Blue,Allergic reaction in individuals with pre-existing asthma
+C.I. 42045:1,Allergic reaction in individuals with pre-existing asthma
+Cyanosine,Allergic reaction in individuals with pre-existing asthma
+Cyanosine chloride,Allergic reaction in individuals with pre-existing asthma
+e143,Significant increases in bladder tumors in male rats
+fast green fcf,Significant increases in bladder tumors in male rats
+fd&c green no. 3,Significant increases in bladder tumors in male rats
+brilliant green bs,Significant increases in bladder tumors in male rats
+green s,Significant increases in bladder tumors in male rats
+c.i. 42053,Significant increases in bladder tumors in male rats
+brilliant green fcf,Significant increases in bladder tumors in male rats
+acid green 3,Significant increases in bladder tumors in male rats
+fd&c blue no. 2,"Occurrence of tumors, particularly brain gliomas"
+e132,"Occurrence of tumors, particularly brain gliomas"
+c.i. food blue 1,"Occurrence of tumors, particularly brain gliomas"
+fd&c blue no. 1,"Occurrence of tumors, particularly brain gliomas"
+alzen food blue no. 2,"Occurrence of tumors, particularly brain gliomas"
+e127,"Occurrence of tumors, particularly brain gliomas"
+fd&c red no.3,Suspected trigger of hyperactivity in children
+ci food red 14,Suspected trigger of hyperactivity in children
+cherry red,Suspected trigger of hyperactivity in children
+erythrosine lake,Suspected trigger of hyperactivity in children
+cherry pink,Suspected trigger of hyperactivity in children
+erythrosine aluminium lake,Suspected trigger of hyperactivity in children
+brilliant scarlet,Suspected trigger of hyperactivity in children
+erythrosine aluminum,Suspected trigger of hyperactivity in children
+food red 14,Suspected trigger of hyperactivity in children
+e110,"Hyperactivity in some children,Causes adrenal tumors in animals"
+fd&c yellow no. 6,"Hyperactivity in some children,Causes adrenal tumors in animals"
+c.i. 15985,"Hyperactivity in some children,Causes adrenal tumors in animals"
+yellow 6 lake,"Hyperactivity in some children,Causes adrenal tumors in animals"
+orange yellow s,"Hyperactivity in some children,Causes adrenal tumors in animals"
+acid yellow 3,"Hyperactivity in some children,Causes adrenal tumors in animals"
+fd&c yellow 6 aluminum lake,"Hyperactivity in some children,Causes adrenal tumors in animals"
+e102,Mild to severe hypersensitiviy reactions
+fd&c yellow no. 5,Mild to severe hypersensitiviy reactions
+ci 19140,Mild to severe hypersensitiviy reactions
+acid yellow 23,Mild to severe hypersensitiviy reactions
+food yellow 4,Mild to severe hypersensitiviy reactions
+tartrazine yellow,Mild to severe hypersensitiviy reactions
+red 40,Contains cancer-causing substances and can cause hyperactivity
+red no. 4,Contains cancer-causing substances and can cause hyperactivity
+red no 4,Contains cancer-causing substances and can cause hyperactivity
+red #40,Contains cancer-causing substances and can cause hyperactivity
+red 40 lake,Contains cancer-causing substances and can cause hyperactivity
+fd&c red no. 40 lake,Contains cancer-causing substances and can cause hyperactivity
+fd&c red no. 40 aluminum lake,Contains cancer-causing substances and can cause hyperactivity
